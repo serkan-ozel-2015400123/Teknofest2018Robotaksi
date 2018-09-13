@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>frame776.jpg</filename>
+	<path>/home/serkan/git/Teknofest2018Robotaksi/dataset/frame776.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>352</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>park_yapilmaz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>62</ymin>
+			<xmax>409</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

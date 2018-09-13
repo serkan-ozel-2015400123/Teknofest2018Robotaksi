@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset</folder>
+	<filename>frame2013.jpg</filename>
+	<path>/home/serkan/git/Teknofest2018Robotaksi/dataset/frame2013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>352</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>saga_donulmez</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>79</ymin>
+			<xmax>370</xmax>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>

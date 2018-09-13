@@ -1,0 +1,7 @@
+saga_donulmez
+sola_donulmez
+girisi_olmayan_yol
+park_yapilmaz
+durak
+kirmizi_trafik_lambasi
+yesil_trafik_lambasi
