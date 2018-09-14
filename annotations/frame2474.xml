@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset2</folder>
+	<filename>frame2474.jpg</filename>
+	<path>C:\Users\musta\Desktop\Yeni klasör\dataset2\frame2474.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>352</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>durak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>104</ymin>
+			<xmax>388</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>

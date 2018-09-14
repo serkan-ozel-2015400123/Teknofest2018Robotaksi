@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset3</folder>
+	<filename>frame2876.jpg</filename>
+	<path>/home/serkan/git/Teknofest2018Robotaksi/dataset/frame2876.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>352</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>durak</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>275</xmin>
+			<ymin>122</ymin>
+			<xmax>397</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>

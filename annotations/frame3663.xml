@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dataset3</folder>
+	<filename>frame3663.jpg</filename>
+	<path>/home/serkan/git/Teknofest2018Robotaksi/dataset/frame3663.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>352</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sola_donulmez</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>352</xmin>
+			<ymin>150</ymin>
+			<xmax>394</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>
